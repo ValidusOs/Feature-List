@@ -1,0 +1,48 @@
+# Feature-List
+
+- Navbar double tap to sleep
+- Double tap to sleep on lockscreen
+- Double tap to sleep on statusbar
+- Quick settings pull down with one finger
+- use volume keys to control media volume anytime
+- Volume rocker music control
+- Launch music player on headset connect
+- Toast icon switch
+- doubletap or longpress to toggle flashlight
+- Ability to configure battery saver mode color
+- Allow to disable qs footer warning
+- QS panel columns and rows
+- Network traffic
+- QS tiles titles visibility
+- Wake on plug
+- Vibrate on plug
+- Add option to disable auto brightness icon in brightness slider
+- AppOps
+- Power menu
+- show battery info on lockscreen when charging
+- HeadsUp Blacklist
+- HeadsUp timeout
+- Headsup snooze
+- Gesture anywhere
+- Volume key answer
+- Allow to disable HOME key when ringing
+- Battery bar
+- Custom small QS tiles
+- Battery light
+- Notification light
+- Scrample pin layout
+- Lockscreen quick unlock
+- Dashboard suggestion options menu
+- InstalledApp: show link to Google Play
+- DisplaySettings: font size in 5% steps from 80% to 130%
+- Night light brightness mode options
+- autohiding IME cursors as left/right nav buttons
+- Caffeine QS tile
+- Sound QS tile
+- PiP QS tile
+- Ambient-LiftToWake QS tile
+- HeadsUp tile
+- partial/full screenshot QS tile
+- Sync QS tile
+- Volume panel QS tile
+- Link ring and notification volume
