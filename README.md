@@ -41,10 +41,15 @@
 - Sound QS tile
 - PiP QS tile
 - Ambient-LiftToWake QS tile
-- HeadsUp tile
+- HeadsUp QS tile
 - partial/full screenshot QS tile
 - Sync QS tile
 - Volume panel QS tile
-- NFC tile
+- NFC QS tile
+- Reboot/Recovery QS tile
+- Compass QS tile
+- Language toggle QS tile
 - Link ring and notification volume
 - Animation for battery asyncLoader
+- Recents: allow single tap on app icon to show app info overlay
+- Stock Recents icon packs support
