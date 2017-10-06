@@ -45,4 +45,6 @@
 - partial/full screenshot QS tile
 - Sync QS tile
 - Volume panel QS tile
+- NFC tile
 - Link ring and notification volume
+- Animation for battery asyncLoader
