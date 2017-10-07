@@ -53,3 +53,6 @@
 - Animation for battery asyncLoader
 - Recents: allow single tap on app icon to show app info overlay
 - Stock Recents icon packs support
+- Volume tones toggle
+- Pixel navbar animation
+- Full alarm info
