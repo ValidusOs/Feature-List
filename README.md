@@ -49,6 +49,7 @@
 - Reboot/Recovery QS tile
 - Compass QS tile
 - Language toggle QS tile
+- Weather QS tile
 - Link ring and notification volume
 - Animation for battery asyncLoader
 - Recents: allow single tap on app icon to show app info overlay
@@ -56,3 +57,4 @@
 - Volume tones toggle
 - Pixel navbar animation
 - Full alarm info
+- Navbar toggle
