@@ -58,3 +58,8 @@
 - Pixel navbar animation
 - Full alarm info
 - Navbar toggle
+- Lockscreen weather
+- Dialer: incall vibrtion
+- Dialer: auto proximity speakerphone
+- increasing ring feature
+- Screen record
