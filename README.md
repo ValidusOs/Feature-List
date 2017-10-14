@@ -63,3 +63,4 @@
 - Dialer: auto proximity speakerphone
 - increasing ring feature
 - Screen record
+- reset battery stats
