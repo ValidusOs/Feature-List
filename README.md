@@ -64,3 +64,7 @@
 - increasing ring feature
 - Screen record
 - reset battery stats
+- Live volume steps
+- Display network name in status bar
+- Status bar notification ticker
+- Statusbar logo
