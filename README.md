@@ -68,3 +68,10 @@
 - Display network name in status bar
 - Status bar notification ticker
 - Statusbar logo
+- Custom system animation
+- Day/Night Oreo edition
+- Slim recents
+- Immersive recents (aosp recents)
+- Recents clear all button tweak (aosp recents)
+- Long press back to kill app
+- Soft reboot/SystemUI restart
