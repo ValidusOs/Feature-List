@@ -75,3 +75,4 @@
 - Recents clear all button tweak (aosp recents)
 - Long press back to kill app
 - Soft reboot/SystemUI restart
+- DUI smartbar/fling
