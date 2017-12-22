@@ -1,42 +1,26 @@
-# Feature-List
+# Feature-List 8.1
 
-- Navbar double tap to sleep
 - Double tap to sleep on lockscreen
 - Double tap to sleep on statusbar
 - Quick settings pull down with one finger
 - use volume keys to control media volume anytime
 - Volume rocker music control
 - Launch music player on headset connect
-- Toast icon switch
 - doubletap or longpress to toggle flashlight
-- Ability to configure battery saver mode color
 - Allow to disable qs footer warning
 - QS panel columns and rows
 - Network traffic
 - QS tiles titles visibility
 - Wake on plug
 - Vibrate on plug
-- Add option to disable auto brightness icon in brightness slider
 - AppOps
 - Power menu
 - show battery info on lockscreen when charging
-- HeadsUp Blacklist
-- HeadsUp timeout
-- Headsup snooze
+- HeadsUp
 - Gesture anywhere
-- Volume key answer
-- Allow to disable HOME key when ringing
-- Battery bar
-- Custom small QS tiles
 - Battery light
 - Notification light
-- Scrample pin layout
-- Lockscreen quick unlock
-- Dashboard suggestion options menu
-- InstalledApp: show link to Google Play
-- DisplaySettings: font size in 5% steps from 80% to 130%
 - Night light brightness mode options
-- autohiding IME cursors as left/right nav buttons
 - Caffeine QS tile
 - Sound QS tile
 - PiP QS tile
@@ -47,32 +31,15 @@
 - Volume panel QS tile
 - NFC QS tile
 - Reboot/Recovery QS tile
-- Compass QS tile
-- Language toggle QS tile
-- Weather QS tile
 - Link ring and notification volume
-- Animation for battery asyncLoader
-- Recents: allow single tap on app icon to show app info overlay
-- Stock Recents icon packs support
-- Volume tones toggle
-- Pixel navbar animation
-- Full alarm info
-- Navbar toggle
-- Lockscreen weather
-- Dialer: incall vibrtion
-- Dialer: auto proximity speakerphone
-- increasing ring feature
-- Screen record
-- reset battery stats
-- Live volume steps
-- Display network name in status bar
-- Status bar notification ticker
-- Statusbar logo
-- Custom system animation
-- Day/Night Oreo edition
 - Slim recents
 - Immersive recents (aosp recents)
 - Recents clear all button tweak (aosp recents)
-- Long press back to kill app
-- Soft reboot/SystemUI restart
+- Stock Recents icon packs support
+- increasing ring feature
+- Screen record
+- Live volume steps
+- Status bar notification ticker
+- Statusbar logo
+- Custom system animation
 - DUI smartbar/fling
