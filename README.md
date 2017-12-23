@@ -43,3 +43,8 @@
 - Statusbar logo
 - Custom system animation
 - DUI smartbar/fling
+- Dialer auto proximity speakerphone
+- Custom small QS tiles
+- BatteryBar
+- Volume key answer
+- Allow to disable HOME key when ringing
