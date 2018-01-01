@@ -48,3 +48,5 @@
 - BatteryBar
 - Volume key answer
 - Allow to disable HOME key when ringing
+- Dark UI theme
+- Dialer: auto proximity speakerphone
