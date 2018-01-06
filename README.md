@@ -50,3 +50,6 @@
 - Allow to disable HOME key when ringing
 - Dark UI theme
 - Dialer: auto proximity speakerphone
+- Wakelock blocker
+- Alarms blocker
+- Reset battery stats
