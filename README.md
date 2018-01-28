@@ -53,3 +53,7 @@
 - Wakelock blocker
 - Alarms blocker
 - Reset battery stats
+- Clock customizations
+- lockscreen: option to pass swipe-up-to-unlock
+- Hardware key settings on supported devices
+- Stuff
