@@ -57,3 +57,7 @@
 - lockscreen: option to pass swipe-up-to-unlock
 - Hardware key settings on supported devices
 - Stuff
+- Less notification sounds
+- USB mode dialog enabled/disabled
+- Screen off animation
+- Ambient display music ticker
