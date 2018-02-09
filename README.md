@@ -8,9 +8,16 @@
 - Launch music player on headset connect
 - doubletap or longpress to toggle flashlight
 - Allow to disable qs footer warning
-- QS panel columns and rows
+- QS: Custom small tiles
+- QS: HeadsUp tile
+- QS: panel columns and rows
+- QS: tiles titles visibility
+- QS: NFC tile
+- QS: Sound tile
+- QS: Caffeine tile
+- QS: PiP tile
+- QS: Sync tile
 - Network traffic
-- QS tiles titles visibility
 - Wake on plug
 - Vibrate on plug
 - AppOps
@@ -21,15 +28,9 @@
 - Battery light
 - Notification light
 - Night light brightness mode options
-- Caffeine QS tile
-- Sound QS tile
-- PiP QS tile
 - Ambient-LiftToWake QS tile
-- HeadsUp QS tile
 - partial/full screenshot QS tile
-- Sync QS tile
 - Volume panel QS tile
-- NFC QS tile
 - Reboot/Recovery QS tile
 - Link ring and notification volume
 - Slim recents
@@ -44,7 +45,6 @@
 - Custom system animation
 - DUI smartbar/fling
 - Dialer auto proximity speakerphone
-- Custom small QS tiles
 - BatteryBar
 - Volume key answer
 - Allow to disable HOME key when ringing
@@ -61,4 +61,3 @@
 - USB mode dialog enabled/disabled
 - Screen off animation
 - Ambient display music ticker
-- QS: Sync tile
