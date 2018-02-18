@@ -61,3 +61,4 @@
 - USB mode dialog enabled/disabled
 - Screen off animation
 - Ambient display music ticker
+- Battery styles
