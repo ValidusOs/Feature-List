@@ -17,6 +17,14 @@
 - QS: Caffeine tile
 - QS: PiP tile
 - QS: Sync tile
+- QS: Ambient-LiftToWake tile
+- QS: partial/full screenshot tile
+- QS: Volume panel tile
+- QS: Screenrecord tile
+- QS: ExpandedDesktop tile
+- QS: Smart pixels tile
+- QS: Always on Display tile
+- QS: Music tile
 - Network traffic
 - Wake on plug
 - Vibrate on plug
@@ -28,10 +36,6 @@
 - Battery light
 - Notification light
 - Night light brightness mode options
-- Ambient-LiftToWake QS tile
-- partial/full screenshot QS tile
-- Volume panel QS tile
-- Reboot/Recovery QS tile
 - Link ring and notification volume
 - Slim recents
 - Immersive recents (aosp recents)
@@ -62,3 +66,6 @@
 - Screen off animation
 - Ambient display music ticker
 - Battery styles
+- Statusbar brightness control
+- Smart pixels
+- Expanded Desktop
