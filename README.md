@@ -25,6 +25,7 @@
 - QS: Smart pixels tile
 - QS: Always on Display tile
 - QS: Music tile
+- QS: Reboot tile
 - Network traffic
 - Wake on plug
 - Vibrate on plug
@@ -69,3 +70,4 @@
 - Statusbar brightness control
 - Smart pixels
 - Expanded Desktop
+- Font service
